@@ -1,2 +1,2 @@
-# aishanib
-Personal portfolio
+# Portfolio
+Aishani Bhalla's Portfolio
